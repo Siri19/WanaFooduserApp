@@ -1,0 +1,34 @@
+<suite name="WonnaFoodCustomerMobileAppResults">
+<test name="WonnaFoodCustomeriMobileApp">
+<classes>
+ 
+  <class name="script.Nav_Intro_Script">
+  </class>
+   <class name="script.LoginScript">
+  </class> 
+   <class name="script.ProfileFunctionalityScript">
+  </class>
+  <class name="script.HomePageScript">
+  </class>
+  <class name="script.SearchScript">
+  </class>
+  <class name="script.MerchantViewScript">
+  </class>
+   <class name="script.CartScript">
+  </class>
+   <class name="script.AddressScript">
+  </class>
+   <class name="script.PlaceOrderScript">
+  </class>
+  <class name="script.WalletScript">
+  </class>
+   <class name="script.RefereFunctionalityScript">
+  </class>
+  <class name="script.AlertsScript">
+  </class>
+<!--  <class name="script.PrivacyPolicyScript">
+  </class> -->
+</classes> 
+
+</test>
+</suite>
